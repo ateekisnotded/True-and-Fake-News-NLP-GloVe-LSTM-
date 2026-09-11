@@ -14,6 +14,13 @@ LSTM-based deep learning model.
 True and Fake news datasets — labeled news articles categorized as
 genuine or fabricated, used to train a binary text classifier.
 
+## Dataset
+True and Fake news datasets — labeled news articles categorized as
+genuine or fabricated. Dataset not included in this repo due to file
+size (available publicly on Kaggle — search "Fake and True Dataset")
+Dataset_1 - (https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection)
+Dataset_2 - (https://www.kaggle.com/datasets/salmahafid/true-csv)
+
 ## Approach
 - Text preprocessing: tokenization, stop-word removal, stemming/lemmatization,
   and text cleaning/normalization
