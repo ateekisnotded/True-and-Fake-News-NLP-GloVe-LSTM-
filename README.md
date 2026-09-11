@@ -30,6 +30,7 @@ Achieved 99% accuracy on the test set, with a weighted F1-score of 0.99.
 | Fake  | 0.99      | 0.99   | 0.99     |
 | True  | 0.98      | 0.99   | 0.98     |
 
+
 ## Tools & Libraries
 Python, TensorFlow/Keras, GloVe Embeddings, Pandas, NLTK / Scikit-learn
 
